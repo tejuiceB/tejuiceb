@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - 👯 I’m looking to collaborate on open source projects and innovative ideas.
 - 🤔 I’m looking for help with advanced coding techniques and best practices.
 - 💬 Ask me about web development, machine learning, and coding in general.
-- 📫 How to reach me: [Your Email](mailto:tejasbhurbhure06@gmail.com)
+- 📫 How to reach me: [Email](mailto:tejasbhurbhure06@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex puzzles and playing chess.
 
