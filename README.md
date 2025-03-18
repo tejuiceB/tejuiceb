@@ -1,6 +1,6 @@
-![Header Image](poster.jpg)
+### Hi there, I'm tejuice 👋
 
-### Hi there, I'm tejuiceB 👋
+![Header Image](poster.jpg)
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
