@@ -15,11 +15,32 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ### Languages and Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square\&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square\&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square\&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square\&logo=css3)
+![React](https://img.shields.io/badge/-React-black?style=flat-square\&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square\&logo=redux)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square\&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square\&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square\&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square\&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square\&logo=git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square\&logo=githubactions)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square\&logo=amazonaws)
+![EC2](https://img.shields.io/badge/-EC2-black?style=flat-square\&logo=amazonaws)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square\&logo=linux)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square\&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square\&logo=bootstrap)
+![Material-UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square\&logo=mui)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square\&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square\&logo=flask)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?style=flat-square\&logo=springboot)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square\&logo=tensorflow)
+
 
 You can find more about my work and contributions on my GitHub repositories. Feel free to reach out if you want to collaborate or just have a chat!
 
