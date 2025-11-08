@@ -5,7 +5,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://github.com/tejuiceB/tejuiceb/blob/main/image.png" alt="Tejas Bhurbhure" width="180" style="border-radius: 50%; border: 3px solid #2E9EFF;"/>
+  <img src="image.png" alt="Tejas Bhurbhure" width="180" style="border-radius: 50%; border: 3px solid #2E9EFF;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Tejas Bhurbhure (tejuice)</h1>
@@ -25,18 +25,15 @@
 
 ## 🚀 About Me
 
-```javascript
-const tejuice = {
-    name: "Tejas Diwakar Bhurbhure",
-    location: "Nagpur, Maharashtra, India 🇮🇳",
-    role: "Full Stack Developer & ML Enthusiast",
-    currentFocus: ["Scalable Web Applications", "Machine Learning", "DSA"],
-    education: "Computer Science Engineering",
-    interests: ["Competitive Programming", "Chess ♟️", "Problem Solving"],
-    pronouns: "He/Him",
-    funFact: "I can debug code while solving chess puzzles! 🎯"
-};
-```
+👨‍💻 **Tejas Diwakar Bhurbhure** from Nagpur, Maharashtra, India 🇮🇳
+
+🎓 Computer Science Engineering Student | Full Stack Developer & ML Enthusiast
+
+🎯 **Current Focus:** Building Scalable Web Applications, Machine Learning & Data Structures
+
+🧩 **Interests:** Competitive Programming, Chess ♟️, Problem Solving
+
+⚡ **Fun Fact:** I can debug code while solving chess puzzles! 🎯
 
 ## 💡 What I'm Upto
 
@@ -96,34 +93,10 @@ const tejuice = {
   </a>
 </p>
 
-## 📫 Contact Information
-
-```yaml
-Name: Tejas Diwakar Bhurbhure
-Location: Nagpur, Maharashtra, India - 440016
-Phone: +91-9637385287
-Email: tejasbhurbhure06@gmail.com
-
-Profiles:
-  GitHub: github.com/tejuiceB
-  LinkedIn: linkedin.com/in/tejas-bhurbhure-b35b0b218
-  LeetCode: leetcode.com/u/tejuice
-```
-
-## 💭 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
-</p>
-
 ---
 
 <p align="center">
-  <i>⭐ "First, solve the problem. Then, write the code." - John Johnson</i>
-</p>
-
-<p align="center">
-  <i>💡 Open to opportunities and collaborations!</i>
+  <i>💡 Open to opportunities and collaborations! | 📧 tejasbhurbhure06@gmail.com | 📱 +91-9637385287</i>
 </p>
 
 <!-- Footer Wave -->
