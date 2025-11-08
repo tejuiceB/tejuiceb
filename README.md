@@ -1,105 +1,207 @@
-<!-- Header Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EFF,50:1E3A8A,100:0F172A&height=120&section=header" alt="header"/>
-</p>
+```
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║   ████████╗███████╗     ██╗ █████╗ ███████╗    ██████╗ ██╗  ██╗██╗   ██╗██████╗ ║
+║   ╚══██╔══╝██╔════╝     ██║██╔══██╗██╔════╝    ██╔══██╗██║  ██║██║   ██║██╔══██╗║
+║      ██║   █████╗       ██║███████║███████╗    ██████╔╝███████║██║   ██║██████╔╝║
+║      ██║   ██╔══╝  ██   ██║██╔══██║╚════██║    ██╔══██╗██╔══██║██║   ██║██╔══██╗║
+║      ██║   ███████╗╚█████╔╝██║  ██║███████║    ██████╔╝██║  ██║╚██████╔╝██║  ██║║
+║      ╚═╝   ╚══════╝ ╚════╝ ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝║
+║                                                                                ║
+║                        💻 Full Stack Developer                                ║
+║                        🤖 Machine Learning Enthusiast                         ║
+║                        🌟 Open Source Contributor                             ║
+║                        🧩 Competitive Programmer                              ║
+║                        ♟️  Chess Lover                                        ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+```
 
-<!-- Profile Image -->
-<p align="center">
-  <img src="image.png" alt="Tejas Bhurbhure" width="180" style="border-radius: 50%; border: 3px solid #2E9EFF;"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Tejas Bhurbhure (tejuice)</h1>
+### 👋 Hello, World! I'm **Tejas Bhurbhure** (tejuice)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Machine+Learning+Enthusiast+🤖;Open+Source+Contributor+🌟;Competitive+Programmer+🧩;Chess+Lover+♟️" alt="Typing SVG" />
-</p>
+**`< Developer / Problem Solver / ML Enthusiast >`**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejuiceB&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/tejuiceB?tab=followers">
-    <img src="https://img.shields.io/github/followers/tejuiceB?label=Followers&style=social" alt="followers" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-👨‍💻 **Tejas Diwakar Bhurbhure** from Nagpur, Maharashtra, India 🇮🇳
-
-🎓 Computer Science Engineering Student | Full Stack Developer & ML Enthusiast
-
-🎯 **Current Focus:** Building Scalable Web Applications, Machine Learning & Data Structures
-
-🧩 **Interests:** Competitive Programming, Chess ♟️, Problem Solving
-
-⚡ **Fun Fact:** I can debug code while solving chess puzzles! 🎯
-
-## 💡 What I'm Upto
-
-- 🔭 Currently working on **exciting full-stack & ML projects**
-- 🌱 Learning **Advanced Algorithms, Cloud Architecture & AI/ML**
-- 👯 Open to **collaborate on innovative open source projects**
-- 🤔 Seeking **advanced coding techniques & best practices**
-- 💬 Ask me about **Web Dev, Machine Learning, DSA & System Design**
-- ⚡ Active on **LeetCode** solving complex challenges
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,redux,nodejs,express,django,flask,spring,postgresql,mongodb,mysql,tensorflow,docker,git,github,aws,linux,tailwind,bootstrap,materialui&perline=8" alt="tech stack" />
-</p>
-
-<br/>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejuiceB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EFF&icon_color=2E9EFF&text_color=FFFFFF" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejuiceB&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EFF&fire=2E9EFF&currStreakLabel=2E9EFF" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejuiceB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EFF&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="49%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=tejuiceB&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=2E9EFF&text_color=FFFFFF" alt="Contribution Stats" width="49%" />
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejuiceB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&row=1" alt="trophies" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejuiceB&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EFF&line=2E9EFF&point=FFFFFF&area=true&area_color=2E9EFF" alt="Contribution Graph" />
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/tejuiceB" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/tejas-bhurbhure-b35b0b218" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/tejuice/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:tejasbhurbhure06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+📍 Nagpur, Maharashtra, India 🇮🇳
 
 ---
 
-<p align="center">
-  <i>💡 Open to opportunities and collaborations! | 📧 tejasbhurbhure06@gmail.com | 📱 +91-9637385287</i>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-tejuiceB-181717?style=flat-square&logo=github)](https://github.com/tejuiceB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/tejas-bhurbhure-b35b0b218)
+[![LeetCode](https://img.shields.io/badge/LeetCode-tejuice-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tejuice/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tejasbhurbhure06@gmail.com)
 
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EFF,50:1E3A8A,100:0F172A&height=100&section=footer" alt="footer"/>
-</p>
+</div>
+
+---
+
+## 🎯 About Me
+
+```javascript
+const tejas = {
+    name: "Tejas Diwakar Bhurbhure",
+    location: "Nagpur, Maharashtra, India 🇮🇳",
+    education: "Computer Science Engineering",
+    role: ["Full Stack Developer", "ML Enthusiast", "Competitive Programmer"],
+    currentFocus: [
+        "Building Scalable Web Applications",
+        "Machine Learning & AI",
+        "Data Structures & Algorithms"
+    ],
+    interests: ["Competitive Programming", "Chess ♟️", "Problem Solving"],
+    funFact: "I can debug code while solving chess puzzles! 🎯♟️",
+    openTo: ["Collaborations", "Open Source", "Innovative Projects"]
+};
+```
+
+<div align="center">
+
+### � Current Activities
+
+</div>
+
+| 🔭 Working On | 🌱 Learning | 💬 Ask Me About |
+|:---:|:---:|:---:|
+| Full-stack & ML Projects | Advanced Algorithms | Web Development |
+| Open Source Contributions | Cloud Architecture | Machine Learning |
+| Competitive Programming | AI/ML Systems | DSA & System Design |
+
+<div align="center">
+
+**🎯 LeetCode Active • 🚀 Building • 🌟 Contributing • 📚 Learning**
+
+</div>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ML/AI & Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 Profile Statistics
+
+```text
+╔═══════════════════════════════════════════════════════════════════╗
+║  🔥 Streak Days        │  ⭐ Total Stars       │  🍴 Forks         ║
+║  📝 Repositories       │  👥 Followers         │  🔄 Following     ║
+║  🎯 Contributions      │  📦 Commits           │  🔧 PRs           ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tejuiceB&theme=dark&hide_border=true&background=0D1117&ring=2E9EFF&fire=2E9EFF&currStreakLabel=2E9EFF)](https://github.com/tejuiceB)
+
+</div>
+
+<details>
+<summary><b>📊 Detailed Statistics (Click to Expand)</b></summary>
+<br>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejuiceB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EFF&icon_color=2E9EFF&text_color=FFFFFF&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejuiceB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EFF&text_color=FFFFFF&langs_count=8)
+
+</div>
+
+</details>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  📧 Email      : tejasbhurbhure06@gmail.com                │
+│  📱 Phone      : +91-9637385287                             │
+│  🔗 LinkedIn   : /in/tejas-bhurbhure-b35b0b218             │
+│  💻 GitHub     : @tejuiceB                                  │
+│  🧩 LeetCode   : @tejuice                                   │
+│                                                             │
+│  💡 Open to Opportunities & Collaborations!                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<a href="https://github.com/tejuiceB">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/tejas-bhurbhure-b35b0b218">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/u/tejuice/">
+  <img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="mailto:tejasbhurbhure06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Quote of the Day
+
+_"Code is like humor. When you have to explain it, it's bad."_ – Cory House
+
+**Thanks for visiting! Happy coding! �**
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║     ⭐ Star my repos if you find them interesting!        ║
+║     🔔 Follow for more amazing projects!                  ║
+║     💬 Feel free to reach out for collaborations!         ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+**© 2025 Tejas Bhurbhure • Made with ❤️ and ☕**
+
+</div>
