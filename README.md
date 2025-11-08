@@ -1,14 +1,25 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Hi%20there,%20I'm%20Tejuice%20👋&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hi%20there,%20I'm%20Tejuice%20👋&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff" />
 
-<!-- Profile Image -->
-<img src="https://github.com/tejuiceB/tejuiceb/blob/main/image1.png" alt="Tejas Bhurbhure" width="350" style="border-radius: 20px; margin: 20px 0;"/>
+<!-- Profile Section with Background -->
+<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+  <tr>
+    <td align="center" style="position: relative;">
+      <img src="https://github.com/tejuiceB/tejuiceb/blob/main/image1.png" alt="Background" width="100%" style="opacity: 0.15; filter: blur(2px);"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="margin-top: -300px;">
+      <img src="Gemini_Generated_Image_yk0u6wyk0u6wyk0u-removebg-preview.png" alt="Tejas Bhurbhure" width="220" style="border-radius: 50%; border: 4px solid #2E9EFF; box-shadow: 0 0 20px rgba(46, 158, 255, 0.5);"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Animated Typing -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A9;Chess+Player+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A9;Chess+Player+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <!-- Divider -->
