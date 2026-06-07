@@ -132,15 +132,6 @@ const tejas = {
 [![LeetCode](https://img.shields.io/badge/LeetCode-tejuice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tejuice/)
 [![Gmail](https://img.shields.io/badge/Gmail-tejasbhurbhure06-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejasbhurbhure06@gmail.com)
 
-<br/>
-
-### 📬 REACH OUT TO ME
-
-**Email:** tejasbhurbhure06@gmail.com  
-**Phone:** +91-9637385287
-
-<br/>
-
 > 💡 **Open to opportunities and collaborations!**  
 > *Let's build something amazing together* �
 
